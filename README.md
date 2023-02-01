@@ -1,1 +1,1 @@
-# assignmrnt-JS-1
+# assignment-JS-1
